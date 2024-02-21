@@ -1,46 +1,47 @@
 # Case Study: Artificial Intelligence and Property Tech with Ylopo
 ## Overview and Origin
-* Ylopo LLC was founded by Juefeng Ge CPO/CMO and Howard Tager CEO in 2016 with an incubation period beginning in 2013. Ylopo is funded by private equity, venture capital, and institutional investors with at least two funding rounds.
+* After selling Tiger Leads to realtor.com in 2013 (2007 - 2013), Ylopo was founded by Howard Tager CEO, and Juefeng Ge CMO/CPO with Ylopo’s official launch in 2016. Howard Tager tells us that the rest of the founding group is a mix of talent from technologists to engineers putting tech at the forefront of Ylopo’s business strategy. Howard Tagar explains that Ylopo wanted to provide what seems to be an all-in-one digital marketing suite for realtors so they can focus on the clients and transactions solely without needing to become fluent in the space of digital marketing. Watch the “about us” introduction here: https://vimeo.com/211419349
+
+* Ylopo's funding is through private equity, venture capital, institutional investors. Ylopo has completed two rounds of funding. The first round of funding was in 2014 for $1,000,000.00. The second and last round of funding was in 2020 for $5,000,000.00, totaling around $6,000,000.00 of funding over all. Ylopo’s revenue is in-between $50,000,000.00 and $100,000,000.00, with Ylopo's growth expected to increase and continue.
 
 ## Business Activities
-* One of the main hurdles in being a real estate agent is rounding up clients. Up until recently “Lead Generation” consisted of cold calling people, door knocking, and holding something like a trivia night at the local watering hole. This is not to say that those things do not work, they are just outdated. Have you ever been cold-called by a realtor? I am personally in a group of people who do not answer a number that I do not have saved. No text message? No voicemail? No dice. My personal favorite is when I receive a call from a number in New York and decline it and then they call back immediately from a number in Florida, then California, then Toronto. It is hard to meet potential qualified clients like this these days. Lead generation has a new friend; Ylopo and AI.
+* On Ylopo’s site, an expression of their mission is stated: “Ylopo is a next-generation technology platform that helps real estate brokers, agents, and teams grow and manage their business by being their all-in-one digital hub to generate new customers, nurture their existing prospects, manage their team, and build their brand”. What specific problem is Ylopo working to solve? Inefficiency in agents’ workflow. Agents, brokers, and teams are their intended customers and the company seems to be gaining traction in the real estate digital marketing and lead generation industry. 
 
-* It is obvious that the company’s intended customer is the realtor, but what I am seeing is the unintended customer: the clients. I’ve been on both sides of the coin. When an agent or broker is operating efficiently the transaction and all that the transaction entails will be barely noticed by the client. When an agent or broker is operating inefficiently the inefficiencies will be both noticed and felt by the clients throughout the transaction. Ylopo’s platform has artificial intelligence built into the package for agents and brokers. 
+* Market Size. According to the National Association of Realtors (NAR), there are upwards of 1,500,000 Realtors (Registered with NAR not counting agents who are not members) in the U.S.. This is quite the market to pull from. There are fees and pricing structures for agents to choose from. The start-up and onboarding fee hovers around $1,500.00. There is a branded website-only package at $345.00 per month. This package offers a website for personal business branding and a website for lead generation. The other package that is offered costs $545.00 per month and is a full lead generation package. 
 
-Products Offered and Technologies that are being implemented are as follows:
+* The full lead generation package/suite looks to have a good ROI. Within this suite are what seems to be a slew of technologies at the agent's disposal. It is important to point out that Ylopo is not a CRM itself, but a platform that integrates with customers' personal CRM. Ylopo has partnered with a small group of CRMs for seamless integration into their platform. Ylopo has also partnered with other CRMs for partial integration into their platform. There are a few competitors with the top two competitors being Real Geeks and Cinc. Cinc is also a partially integrated CRM with Ylopo’s platform. It seems that Ylopo has an advantage over the competition with not only the integration of artificial intelligence but also Ylopo’s markets themselves heavily to their customers.
 
-* Lead Generation - Ylopo uses two marketing channels to generate leads: a PPC ad on social media and a PPC ad on Google. High-intent leads are targeted with the use of dynamic ads, IDX feeds, and Google search ads.
-
-* Lead Nurture - Ylopo claims to re-engage 30% of dormant leads through follow-ups with email listing campaigns. If the search behavior of the leads begins to look more frequent, the Lead Nurture will notify the agent or broker that it is a good time to contact the potential client again. A chatbot is used for automatic follow-ups.
-
-* RAIya - Text + Voice (A.I. Powered ISA) - RAIya text and voice is a feature that separates Ylopo from its competitors. They have real-life examples of both the AI text feature and the AI voice feature on their site. The reviews on both seem to be positive. The AI voice feature… you need to visit Ylopo’s homepage and listen to this conversation with a potential lead. It is astonishing and I was blown away at how organic this conversation felt. It is beautiful. Ylopo also creates dynamic video leads automatically, does the re-marketing for potential clients that have fallen “cold”, and can also send the MLSs needed to Facebook allowing potential clients to search homes listed on the MLS on Ylopo’s platform.
-
-* IDX Home Search - This is typical for real estate marketing suites.
-
-* DYVA - Dynamic Video Ads
-
-* CRM Integration - Ylopo looks like a CRM at first glance, but they are not, technically speaking. Ylopo integrates third-party CRM providers that are selected by Ylopo so there are no interruptions in work or work flow. Ylopo then utilizes AI to analyze your prospects’ behavior through your platform. The current CRMs’ include Follow Up Boss, Sierra Interactive, Firepoint, Chime, and Liondesk. Partially integrated CRMs include Cinc, Contactually, Salesforce, and Boomtown.
-
-* Mission Control - This is Ylopo’s central dashboard. Within this dashboard is an auto-pilot feature, which means that the Ylopo platform is doing a large amount of work for the agent or broker. The agent or broker can also opt out of the feature and complete these tasks on their own. There are features for ad run and ad spending with location and demographic controls. The dashboard also includes detailed marketing performance and social engagement monitoring.
-
-* Branded Website - The customer can have their own branded website, choosing from 5 customizable templates. This website will host the IDX as well as integrated Zillow reviews.
-
-* Listing Rocket - When an agent or broker lists a property for sale, this feature automatically detects the listing and generates a Facebook Lead Ad campaign with the entire process being synced with the agent or broker’s MLS. If the property listing switches from “Active” to “Under Contract” the Listing Rocket detects the change and then promotes the change. The Listing Rocket generates seller reports and campaign reports as well.
-
-* Homebot
-
-* CRM Masterclass
-
-* Lead Conversion Masterclass
+* Ylopo sets itself apart from the competition with a few different modalities that are built into its all-in-one dynamic digital marketing platform. The full list of Ylopo’s products includes Lead Generation, Lead Nurture, RAIya - Text + Voice, IDX Home Search, DYVA - Dynamic Video Ads, CRM Integration, Mission Control (Their dashboard), Branded Website, and Listing Rocket. Lead Generation, Lead Nurture, RAIya, and Listing Rocket are the products that utilize artificial intelligence. The lead generation feature uses a messaging bot to reach out to prospects through their “cutting-edge” Facebook marketing ads. Lead nurture sends SMS messages to already logged prospects who have fallen off of their home search. Lead nurture, with the help of AI, reaches out to a prospect when the AI detects that the old prospect has begun to search for homes again through the agent's IDX home search product. If lead nurture reaches out, and the prospect is interested in speaking with an agent RAIya enters the equation. The RAIya product is an AI real estate assistant claims Ylopo. With both a text and a voice feature, RAIya will reach out to the prospect to determine whether they are a qualified and eager buyer/seller or if they are just looking around. The text feature is great, but the voice feature is even better. Ylopo has a preview of RAIya voice and RAIya text that you can investigate by clicking on this link: https://www.ylopo.com/raiya-1 
 
 ## Landscape
-* Ylopo operates in the Digital Marketing Industry geared solely towards real estate agents and brokers and property search dynamics. So Ylopo operates in two different industries: Digital Marketing and Property Technology (PropTech). The real estate industry has been at a slow steady crawl as far as implementing tech into the industry goes. The biggest innovations before this last decade were companies like Zillow and Redfin. These two companies integrated all of the MLSs for the U.S. into one user-friendly platform. This has increased the quantity of home buying in the U.S. for both investors and families looking to move into their first home. Another innovative move in the real estate industry in the past decade was the introduction of CRMs, allowing agents and brokers to track client interest and activity as well as having a landing page for lead generation. 
+* Ylopo thrives in the digital marketing space as well as in the property technologies space in the past decade or so, the real estate agent industry has not really integrated tech into their daily lives. The most noteworthy event to bless the real estate industry was the multiple listing services (MLS). Other than that, companies like Zillow and Redfin have combined all of the MLS services within the U.S. to gain a farther reach for prospects. Agents pay these companies a monthly fee or buy an area code within their own market. Purchasing an area code costs customers some big bucks as the market for this situation is saturated. Digital marketing has obviously been a player in real estate sales and closings, but cold calling and door knocking were still being pushed on agents to find clients. I think it is safe to say that these days, a large percentage of Americans do not answer phone numbers they do not know or have saved. As stated earlier in the case study, there two competitors for Ylopo or at least on their level. Real Geeks and Cinc. Once again, I want to mention that Cinc is a partially integrated CRM with Ylopo. Real Geeks is a true competitor as they offer similar products and services at competitive rates in comparison with Ylopo’s rates and Real Geeks has implemented AI as the foundation of their business and products offered. Real Geeks also has their own CRM platform in opposition to Ylopo’s CRM integration strategies. 
+
 ## Results
-* The impact that Ylopo has had on the real estate lead generation business is still being measured due to the fact that Ylopo has only been on the scene for a few years. The reviews and testimonials suggest that the customers (agents) are seeing a definite increase in cold clients turning into actual clients as well as a percentage increase in sales volume and commission.
+* Ylopo has had quite an impact thus far. Ylopo's competitors are beginning to lose customers as they shift from their current CRM or integrate their  CRMs into the Ylopo platform. The infographic on Built With’s site https://trends.builtwith.com/cms/Ylopo/Market-Share shows Ylopo’s customer base and market share. Competitors like ListTrac and Boomtown ROI are steadily losing customers to Ylopo. Real Geeks, one of the main competitors stated earlier in this case study, has lost quite a few customers to Ylopo. Ylopo is gaining market share as it seems to be at the beginning of outperforming the competition. 
+
+* The core metrics that these companies in this industry use to measure the success of their products and services are namely closed transactions and sales volume via CRM platforms. The data from a prospect and all the way to a closed transaction is tracked through these dashboards and logged in real-time.  
+
+* “Introducing RAIYA Voice, the cutting-edge AI tool that empowers real estate agents to convert leads like never before. Designed exclusively for real estate agents,RAIYA Voice will become your secret weapon to unlock more conversions, free up precious time, and maximize the potential of every new lead you generate".  This is a quote from Ylopo’s site with a half hour video where the founders take a deep dive into RAIya voice. The implementation of AI into there platform is helping Ylopo to truly gain a competitive edge in the field. It is stated that the rate of improvement with RAIya is high as the AI is learning at an exponential pace. 
 ## Recommendations
-* If I were to be an advisor to Ylopo I would advise them to market themselves as only and 
-AI Lead Generation tool that can be integrated with your CRM. The cost to the customer (agents and brokers) would be reduced drastically. The AI Text and Voice being the only product that Ylopo would provide would allow for continued innovation on AI and machine learning rather than a dynamic one-stop-shop marketing platform… There are already many of these in circulation. Set yourself apart from the competition and cut the fat off. The technologies that would be used in this situation would be less than Ylopo’s current use. Only focusing on AI implementation, therefore using and producing AI tech. Again, there are many all-in-one marketing suites available, and that technology already exists. Let us try something new and innovative.
+* The only recommendation that I would have for Ylopo would be to focus as much energy on moving their AI forward as possible. Again, the implementation of AI within their platform is a game changer. Ylopo’s ability to integrate other CRMs into their platform is a big deal, but the industry needs more focus on the abilities of artificial intelligence for the future. I hate to say this, but most of what a realtor, real estate agent, and broker do in their daily work lives will be accomplished by artificial intelligence in some way in the near future. Focusing on what else AI can do in this industry is of importance. 
 ## Sources
-* https://www.ylopo.com/
+Overview and Origin.
+* https://www.ylopo.com/about-us
+* https://www.zoominfo.com/c/ylopo-llc/363407330
+* https://getkoala.com/companies/ylopo.com
+
+Business Activities.
+* https://www.ylopo.com/what-is-ylopo
+* https://www.rubyhome.com/blog/number-of-realtors/
+* https://theclose.com/ylopo-reviews/
+* https://www.ylopo.com/raiya-1
+
+Landscape.
 * https://www.realgeeks.com/
 * https://www.cincpro.com/
+* https://www.zillow.com/
+* https://www.redfin.com/
+
+Results.
+* https://trends.builtwith.com/cms/Ylopo/Market-Share
+* https://www.ylopo.com/webinars/unveiling-raiya-voice
